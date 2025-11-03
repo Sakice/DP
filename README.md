@@ -1,6 +1,6 @@
 Brief Intro
 -----------------
-This file is an assignment from master program of Cultural Data & AI in University of Amsterdam. The file authors are Jiayi Zhu, Bowen Zhang, Xinyi Hu, Ahmet S.Sakrak and Xinran Zhang. This assignment aims to seek the insighful understanding of TikTokRefugee during the period of 'TikTok Ban' in 2025. The raw data is only about the first seven days of TikTokRefugee.
+This file is an assignment from master program of Cultural Data & AI in University of Amsterdam. The file authors are Jiayi Zhu, Bowen Zhang, Xinyi Hu, Ahmet S.Sakrak and Xinran Zhang. This assignment aims to seek the insighful understanding of TikTokRefugee during the period of 'TikTok Ban' in 2025. The raw data is only about the first seven days of TikTokRefugee. Most code is writen by python
 -----------------
 This file contains the data and analysis results, including code, for the group project in the Data Project course of the Cultural Data & AI master's program at the University of Amsterdam.
 The data is divided into raw data and clean data.
